@@ -1,6 +1,6 @@
 # Pet Medical Records Manager (Backend)
 
-## 📖 Overview
+## Overview
 The **Pet Medical Records Manager** is a backend CRUD application built using **Express.js** and **TypeScript** as part of the **SESD Workshop Assignment**. The system is designed to manage and organize medical records for multiple pets in a structured and efficient manner. It helps in tracking veterinary visits, vaccinations, medications, allergies, and routine health checkups through well-defined API endpoints.
 
 ---
